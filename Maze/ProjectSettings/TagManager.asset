@@ -11,6 +11,11 @@ TagManager:
   - South
   - Random
   - Start
+  - Baddie
+  - Enemy
+  - PlaySnow
+  - Wall
+  - SnowBall
   layers:
   - Default
   - TransparentFX
